@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josh-merrill
 - 👀 I’m interested in web development and UX/UI design.
 - 🌱 I’m currently learning Ruby on Rails and Javascript.
-- 💞️ I’m looking to collaborate on freelance creative projects for small, active lifestyle and sports brands.
+- 💞️ I’m looking to collaborate on freelance creative projects for small lifestyle brands.
 - 📫 You can reach me at joshmmerrill[at]outlook.com.
 
 <!---
