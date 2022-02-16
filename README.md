@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @josh-merrill
 - 👀 I’m interested in web development and UX/UI design.
 - 🌱 I’m currently learning Ruby on Rails and Javascript @ Le Wagon.
-- 💞️ I’m looking to collaborate on freelance creative projects for small lifestyle brands.
 - 📫 You can reach me at joshmmerrill[at]outlook.com.
 
 <!---
