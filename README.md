@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-merrill&label=Profile%20views&color=0e75b6&style=flat" alt="josh-merrill" /> </p>
 
-- 🔭 I’m currently working on [Art Collective - a digital art auction house](www.artcollective.live)
+- 🔭 I’m currently working on [Art Collective - a digital art auction house.](www.artcollective.live)
 
 - 🌱 I’m currently learning **Ruby on Rails & React.**
 
-- 👯 I’m looking to collaborate on **freelance projects for e-commerce brands and small businesses**
+- 👯 I’m looking to collaborate on **Freelance projects for e-commerce brands and small businesses.**
 
-- 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](www.troopl.com/joshmerrill)
+- 👨‍💻 All of my projects are available at [www.troopl.com/joshmerrill](www.troopl.com/joshmerrill)
 
-- 📫 How to reach me **joshmmerrill@outlook.com.**
+- 📫 How to reach me **joshmmerrill@outlook.com**
 
 - 📄 Know about my experiences [bit.ly/hire-josh](bit.ly/hire-josh)
 
