@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-merrill&label=Profile%20views&color=0e75b6&style=flat" alt="josh-merrill" /> </p>
 
-- 🔭 I’m currently working on [Art Collective - a digital art auction house](https:/www.artcollective.live).
+- 🔭 I’m currently working on [Art Collective - a digital art auction house](https://www.artcollective.live).
 
 - 🌱 I’m currently learning **Ruby on Rails & React.**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joshmmerrill@outlook.com**.
 
-- 📄 Know about my experiences [bit.ly/hire-josh](bit.ly/hire-josh).
+- 📄 Know about my experiences [bit.ly/hire-josh](https://drive.google.com/file/d/1ZFdYyJD9TNvV7YAl7jQHGvmCxkwzDcKF/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
