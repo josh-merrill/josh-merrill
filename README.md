@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **freelance projects for e-commerce brands and small businesses.**
 
-- 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](www.troopl.com/joshmerrill)
+- 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](www.troopl.com/joshmerrill).
 
-- 📫 How to reach me **joshmmerrill@outlook.com**
+- 📫 How to reach me **joshmmerrill@outlook.com**.
 
-- 📄 Know about my experiences [bit.ly/hire-josh](bit.ly/hire-josh)
+- 📄 Know about my experiences [bit.ly/hire-josh](bit.ly/hire-josh).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
