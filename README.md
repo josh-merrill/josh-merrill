@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joshmmerrill@outlook.com**.
 
-- 📄 Know about my experiences [bit.ly/hire-josh](https://drive.google.com/file/d/1ZFdYyJD9TNvV7YAl7jQHGvmCxkwzDcKF/view?usp=sharing).
+- 📄 Know about my experiences - [check out my resume](https://drive.google.com/file/d/1ZFdYyJD9TNvV7YAl7jQHGvmCxkwzDcKF/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
