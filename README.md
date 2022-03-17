@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails & React.**
 
-- 👯 I’m looking to collaborate on **freelance projects for e-commerce brands and small businesses.**
+- 🤝 I’m looking to collaborate on **freelance projects for e-commerce brands and small businesses.**
 
 - 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](https://www.troopl.com/joshmerrill).
 
