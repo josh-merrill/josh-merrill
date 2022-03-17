@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Joshua Merrill</h2>
-<h3>A passionate frontend web developer, currently based in Lisbon, Portugal.</h3>
+<h3>A passionate frontend web developer currently based in Lisbon, Portugal.</h3>
 
 - 🔭 I’m currently working on [Art Collective - a digital art auction house](https://www.artcollective.live).
 
