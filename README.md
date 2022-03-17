@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Merrill</h1>
+<h2 align="center">Hi 👋, I'm Joshua Merrill</h2>
 <h3 align="center">A passionate frontend developer from the US, currently based in Lisbon, Portugal.</h3>
 
 - 🔭 I’m currently working on [Art Collective - a digital art auction house](https://www.artcollective.live).
