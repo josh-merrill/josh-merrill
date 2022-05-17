@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Art Collective - a digital art auction house](https://www.artcollective.live).
 
-- 🌱 I’m currently learning **Ruby on Rails & Javascript.**
+- 🌱 I’m currently learning **Javascript** and **React**.
 
 - 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](https://www.troopl.com/joshmerrill).
 
