@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Ruby on Rails & Javascript.**
 
-- 🤝 I’m looking to collaborate on **freelance projects for e-commerce brands and small businesses.**
-
 - 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](https://www.troopl.com/joshmerrill).
 
 - 📫 How to reach me **joshmmerrill@outlook.com**.
