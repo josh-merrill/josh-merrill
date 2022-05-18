@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [troopl.com/joshmerrill](https://www.troopl.com/joshmerrill).
 
-- 📫 How to reach me **joshmmerrill@outlook.com**.
+- 📫 Contact me at **joshmmerrill@outlook.com**.
 
-- 📄 Know about my experiences - [check out my resume](https://drive.google.com/file/d/1ZFdYyJD9TNvV7YAl7jQHGvmCxkwzDcKF/view?usp=sharing).
+- 📄 Learn more about my experiences - [check out my resume](https://drive.google.com/file/d/1ZFdYyJD9TNvV7YAl7jQHGvmCxkwzDcKF/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
