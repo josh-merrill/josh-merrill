@@ -5,6 +5,6 @@
 - 🛠 Building [Art Collective, a digital art auction house](https://www.artcollective.live), & **M00nLink**, a web3 based landing page
 - 🌱 Improving my **Javascript** and **React** skills
 - 👉 [Connect with me on LinkedIn](https://linkedin.com/in/joshmmerrill)
-- 🎨 [Check out my portfolio](https://www.troopl.com/joshmerrill)
+- 🎨 [Check out my portfolio](https://www.josh-merrill.com)
 - 📫 [Get in touch](mailto:joshmmerrill@outlook.com)
 - 💬 Ask me about Frontend Development, CSS, Semantic HTML & Design Systems
