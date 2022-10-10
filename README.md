@@ -3,7 +3,7 @@
 
 - 👨‍💻 Working as a freelance frontend developer and teaching assistant for Le Wagon Lisbon
 - 🛠 Building [Art Collective, a digital art auction house](https://www.artcollective.live), & **M00nLink**, a web3 based landing page
-- 🌱 Improving my **Javascript** and **React** skills through the Scrimba Front-end Development Course
+- 🌱 Improving my **Javascript** and **React** skills through the Scrimba Frontend Development Course
 - 👉 [Connect with me on LinkedIn](https://linkedin.com/in/joshmmerrill)
 - 🎨 [Check out my portfolio](https://www.josh-merrill.com)
 - 📫 [Get in touch](mailto:joshmmerrill@outlook.com)
